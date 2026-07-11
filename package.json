@@ -1,0 +1,22 @@
+{
+  "name": "projectmanagementplatform",
+  "version": "1.0.0",
+  "description": "a backend based project management platform",
+  "keywords": [
+    "beginner",
+    "backend",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "Apophis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.5"
+  }
+}
